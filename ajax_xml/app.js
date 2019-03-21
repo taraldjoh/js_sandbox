@@ -10,7 +10,9 @@ function loadData() {
   xhr.onload = function() {
     // Check if status is = 200 (200 status = all is ok)
     if (this.status === 200) {
-      console.log(this.responseText);
+      document.getElementById("output").innerHTML = `<h1>${
+        this.responseText
+      }</h1>`;
     }
   };
 
