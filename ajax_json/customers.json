@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "Tarald Johansen",
+    "company": "Ålesund Kommune",
+    "phone": "123 123 123"
+  },
+  {
+    "id": 2,
+    "name": "Sander Hellesø",
+    "company": "SWAUEAWK",
+    "phone": "123 555 333"
+  },
+  {
+    "id": 3,
+    "name": "Katarina Gieron",
+    "company": "Ålesund Kommune",
+    "phone": "my-bae-1234"
+  }
+]
